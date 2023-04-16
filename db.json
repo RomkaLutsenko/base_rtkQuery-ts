@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "asd",
+      "author": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server 5",
+      "author": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "json-server 6",
+      "author": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "json-server 7",
+      "author": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "json-server 8",
+      "author": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server 9",
+      "author": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "json-server 10",
+      "author": "typicode"
+    },
+    {
+      "id": 11,
+      "title": "json-server 11",
+      "author": "typicode"
+    },
+    {
+      "title": "asdasd",
+      "body": "asdasd",
+      "id": 12
+    },
+    {
+      "title": "asdasd",
+      "body": "asdasd",
+      "id": 13
+    },
+    {
+      "title": "as123123",
+      "body": "as123123",
+      "id": 14
+    },
+    {
+      "title": "asd123123",
+      "body": "asd123123",
+      "id": 15
+    },
+    {
+      "title": "rhyfthfhfgbf",
+      "body": "rhyfthfhfgbf",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
